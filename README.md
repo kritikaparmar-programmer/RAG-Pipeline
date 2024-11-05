@@ -18,11 +18,11 @@ A simple Retrieval-Augmented Generation (RAG) pipeline for answering questions b
   ```bash
   pip install -r requirements.txt
 
-## Run the app
+- Run the app
   ```bash
   streamlit run app.py
 
-### Usage
+## Usage
 1. Enter a Website URL in the sidebar.
 2. Ask Questions based on the website content.
 3. The RAG pipeline retrieves relevant information and generates answers.
