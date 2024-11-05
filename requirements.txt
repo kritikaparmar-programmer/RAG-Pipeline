@@ -1,1 +1,17 @@
+
+langchain
+langchain-core>=0.1.27
+langchain-community>=0.0.24
+langchain-openai>=0.0.8
+langchain-groq>=0.0.1
+pinecone-client>=3.0.0
+nemoguardrails>=0.8.0
+python-dotenv>=1.0.0
+beautifulsoup4>=4.12.0
+langchain_pinecone
+langchain_text_splitters
+nemoguardrails
+pinecone
 streamlit
+sentence_transformers
+nest_asyncio
