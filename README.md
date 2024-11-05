@@ -2,8 +2,6 @@
 
 A simple Retrieval-Augmented Generation (RAG) pipeline for answering questions based on website content. This project combines retrieval of relevant website information with generative models to deliver contextually accurate answers.
 
-**Deployed on**: [Render](https://render.com)
-
 ## Features
 
 - **Website Content Parsing**: Extracts and indexes content from a specified website URL.
@@ -18,6 +16,7 @@ A simple Retrieval-Augmented Generation (RAG) pipeline for answering questions b
 - **Retrieval**: Hugging Face
 - **Vector Database**: Pinecone
 - **Generation**: Groq, Llama3
+- **Deployment**: Render
 
 ## Workflow Architecture
 
