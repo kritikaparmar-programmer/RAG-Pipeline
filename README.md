@@ -19,7 +19,8 @@ A simple Retrieval-Augmented Generation (RAG) pipeline for answering questions b
   pip install -r requirements.txt
 
 ## Run the app
-> streamlit run app.py
+  ```bash
+  streamlit run app.py
 
 ### Usage
 1. Enter a Website URL in the sidebar.
